@@ -1,0 +1,18 @@
+
+
+
+Buyer's Name: Uzair
+Buyer's Address: 510, Sharah-e-Faisalÿÿÿachi
+Buyer's Identification Number (ID): 2147483647
+Car Bought: Vitz
+
+
+
+
+
+Buyer's Name: Jamal
+Buyer's Address: 579, Winston Street, NY
+Buyer's Identification Number (ID): 348482982
+Car Bought: Vitz
+
+
